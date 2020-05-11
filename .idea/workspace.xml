@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a260b89b-f1c5-454b-bb5e-4ecf5d6e6772" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1T5hzh3SnCXGJrFwwVvbDRTqlcF" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/public/js/bussiness/recommend" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public/js/bussiness/recommend" />
+      <recent name="$PROJECT_DIR$/views/recommend" />
+      <recent name="$PROJECT_DIR$/public/js/bussiness/template" />
+      <recent name="$PROJECT_DIR$/views/template" />
+      <recent name="$PROJECT_DIR$/views/background" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="app.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/app.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.app.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a260b89b-f1c5-454b-bb5e-4ecf5d6e6772" name="Default Changelist" comment="" />
+      <created>1572756127172</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572756127172</updated>
+      <workItem from="1572756131020" duration="5526000" />
+      <workItem from="1574576878932" duration="8736000" />
+      <workItem from="1575255232342" duration="8301000" />
+      <workItem from="1575360873668" duration="335000" />
+      <workItem from="1575361231242" duration="11863000" />
+      <workItem from="1575862413587" duration="14136000" />
+      <workItem from="1576067863083" duration="407000" />
+      <workItem from="1577414732247" duration="590000" />
+      <workItem from="1577676203782" duration="594000" />
+      <workItem from="1577799388963" duration="1098000" />
+      <workItem from="1578370664953" duration="490000" />
+      <workItem from="1578550074104" duration="481000" />
+      <workItem from="1578644707408" duration="597000" />
+      <workItem from="1578898568385" duration="15471000" />
+      <workItem from="1580469613097" duration="575000" />
+      <workItem from="1580797629484" duration="500000" />
+      <workItem from="1581488718372" duration="81000" />
+      <workItem from="1584784530424" duration="1122000" />
+      <workItem from="1585810368430" duration="1406000" />
+      <workItem from="1586400827151" duration="84897000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
